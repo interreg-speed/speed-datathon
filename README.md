@@ -23,7 +23,19 @@
 
 ------
 
+## Updates
 
+An update for the schedule Friday December 11th 2020:
+
+- **10:00 - Morning Q&A session**  (though feel free to ask questions in the Discord Q&A section any time!)
+- **16:00 - Each (1-3 person) team presents their results: ONNX model size, model precision. Then shortly share your screen and run the model. **
+  **If and when unable to complete your challenge, a short report on your teams progress is fine too. Either way, presentation are 5 minutes, maximum.** 
+
+------
+
+You should be able to request for a Azure student account including $100 credit here:
+
+- https://azure.microsoft.com/en-us/free/students/
 
 ## Welcome
 
@@ -64,6 +76,8 @@ Finally, and importantly, the EU and the SPEED project are **strongly committed 
 **:calendar: Friday December 11th 2020** 
 
 - 10:00 – 17:00 Datathon with coaching on demand (depending on skills)
+- **10:00 - Morning Q&A session** 
+- **16:00 - Each (1-3 persons) team presents his or her results by shortly sharing their screen and show how they have fared**
 - 17:00 – Prize ceremony (500 euro prize money)
 
 
@@ -137,7 +151,11 @@ This track fits particularly well with Challenge 1 - but feel check out if you c
 
 Build a simple "hardly any code necessary" AI model for one of our challenges using **Microsoft's Azure Custom Vision Service** (you should be able to apply for a free account [here](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/), and [be able to export your model to ONNX](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/export-your-model)).
 
+Also, you should be able to request for a Azure student account including $100 credit here:
 
+- https://azure.microsoft.com/en-us/free/students/
+
+  
 
 **IMPORTANT:**
 
