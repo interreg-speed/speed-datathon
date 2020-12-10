@@ -28,7 +28,7 @@
 An update for the schedule Friday December 11th 2020:
 
 - **10:00 - Morning Q&A session**  (though feel free to ask questions in the Discord Q&A section any time!)
-- **16:00 - Each (1-3 person) team presents their results: ONNX model size, model precision. Then shortly share your screen and run the model. **
+- **16:00 - Each (1-3 person) team presents their results: ONNX model size, model precision. Then shortly share your screen and run the model.**
   **If and when unable to complete your challenge, a short report on your teams progress is fine too. Either way, presentation are 5 minutes, maximum.** 
 
 ------
@@ -42,6 +42,8 @@ You should be able to request for a Azure student account including $100 credit 
 Additional potentially interesting link:
 
 - https://github.com/daquexian/onnx-simplifier
+
+------
 
 ## Welcome
 
