@@ -37,6 +37,12 @@ You should be able to request for a Azure student account including $100 credit 
 
 - https://azure.microsoft.com/en-us/free/students/
 
+------
+
+Additional potentially interesting link:
+
+- https://github.com/daquexian/onnx-simplifier
+
 ## Welcome
 
 Welcome to the Interreg SPEED Datathon 2020! 
