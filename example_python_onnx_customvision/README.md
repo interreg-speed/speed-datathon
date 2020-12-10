@@ -24,5 +24,5 @@ If everything is ok, you should now receive the following result:
 {'classLabel': array([['container']], dtype=object), 'loss': [{'bulk': 0.001739172381348908, 'container': 0.9767897725105286, 'passenger': 0.021471086889505386}]}
 ```
 
-Yay! Our model is 98% certain the picture of the containership contains, well, an containership! :happy::boat::anchor:
+Yay! Our model is 98% certain the picture of the containership contains, well, an containership! :smile::boat::anchor:
 
