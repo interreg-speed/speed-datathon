@@ -251,6 +251,10 @@ The dataset we make available is inspired by *Gundogdu, Erhan, et al.'s 2016* "M
 
 ### Challenge 2: Person detection
 
+
+
+![persondetection](images/penn.png)
+
 **CHALLENGE CONTEXT**
 
 Port authorities manage the movement of people and cargo on their property. Physical security is a major element of port operations, because ports are large facilities spread out over extensive complex estates, with many elements that need to be secured: There are also offices, terminals, loading docks, customs facilities, and maintenance, storage and parking areas. These all add up to vast expanses that require vigilant patrol and monitoring, to protect not only workers and visitors but also port assets and the goods that move through those ports.
