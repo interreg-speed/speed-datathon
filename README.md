@@ -4,7 +4,7 @@
 
 
 
-# The Interreg SPEED Datathon 2020
+# The Interreg SPEED Datathon
 
 - [Welcome](#welcome)
 - [Schedule](#schedule)
